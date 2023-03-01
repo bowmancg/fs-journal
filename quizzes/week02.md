@@ -13,7 +13,7 @@ A subprogram written to perform a specific task
 **3.** What are the `SOLID` principles?
 <!-- enter you answer in the space below -->
 ```
-
+Single responsibility, open closed, liskov substitution, interface segregation, and dependency inversion
 ```
 **4.** Given this array: 
 ```js
@@ -32,7 +32,7 @@ let them = { name:"Them", hair: false, friends: [] }
 how would you .push the `them` object into the `you` object's array of friends?
 <!-- enter you answer in the space below -->
 ```
-
+name.push(you.friends)
 ```
 
 **6.** Give an example of a JavaScript `Conditional`:
@@ -47,26 +47,26 @@ for ( let i = 0; i < arr.length; _______ ) {
 ```
 <!-- enter you answer in the space below -->
 ```
-
+i++
 ```
 **8.** What does the `DOM` acronym stand for? Which file is first accessed to render the `DOM`?
 <!-- enter you answer in the space below -->
 ```
-
+Document object model
 ```
 
 **9.** What are the `9` ECMAScript types as defined by MDN?
 <!-- enter you answer in the space below -->
 ```
-
+Number, bigInt, string, boolean, null, undefined, symbol, object, property
 ```
 **10.** When it comes to functions or methods, what is the difference between a `parameter` and an `argument`?
 <!-- enter you answer in the space below -->
 ```
-
+Parameters are used as the function definition in the parentheses and arguments are the values the parameters get when the function runs.
 ```
 **11.** What is the difference between a `primitive` value and a `reference` value?
 <!-- enter you answer in the space below -->
 ```
-
+Reference values can be changed, deleted, or added, primitive values cannot
 ```
