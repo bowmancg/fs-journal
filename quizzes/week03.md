@@ -42,21 +42,21 @@ Middleware for objects
 **7.** What is the purpose of the `MVC` pattern?
 <!-- enter you answer in the space below -->
 ```
-
+It is an organizational model used to present code in an understandable way
 ```
 **8.** What is the job of the `Controller` in the `MVC` Pattern?
 <!-- enter you answer in the space below -->
 ```
-
+The controller activates a handler when an event takes place
 ```
 
 **9.** What is the job of the `Service` in `MVC`?
 <!-- enter you answer in the space below -->
 ```
-
+It manages all of the operations
 ```
 **10.** What is the job of the `Model` in `MVC`?
 <!-- enter you answer in the space below -->
 ```
-
+It is where all the class attributes are meant to be stored
 ```
