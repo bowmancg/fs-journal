@@ -23,17 +23,17 @@ a function placed into another function as an argument
 **5.** What is a `promise`? How do you capture an error from a `promise`?
 <!-- enter you answer in the space below -->
 ```
-
+Promises are proxies used to return a value at a point in the future, and their errors can be found with the catch method
 ```
 **6.** Name three processes used to make requests over `HTTP`?
 <!-- enter you answer in the space below -->
 ```
-
+The get method, the post method, and the put method
 ```
 **7.** What does the `API` acronym stand for?
 <!-- enter you answer in the space below -->
 ```
-
+Application Programming Interfaces
 ```
 **8.** In the `MVC` design pattern, who is responsible for making calls to `APIs`?
 <!-- enter you answer in the space below -->
