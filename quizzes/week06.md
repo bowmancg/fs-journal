@@ -8,12 +8,12 @@ app.js
 **2.** What is the difference between a vue `component` and `page`?
 <!-- enter you answer in the space below -->
 ```
-
+A component contains code for a specific application for a page, and the page is meant to contain and render components
 ```
 **3.** What feature of Vue can be used to repeat an element using a collection of data?
 <!-- enter you answer in the space below -->
 ```
-
+v-for
 ```
 **4.** What are the three tags that make up a Vue component?
 <!-- enter you answer in the space below -->
@@ -28,7 +28,7 @@ liskov substitution
 **6.** Which component in Vue does the vue-router use to mount pages onto?
 <!-- enter you answer in the space below -->
 ```
-
+loadPage
 ```
 **7.** What is the difference between the `AppState` and the state object within a component?
 <!-- enter you answer in the space below -->
