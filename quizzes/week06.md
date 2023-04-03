@@ -33,12 +33,12 @@ loadPage
 **7.** What is the difference between the `AppState` and the state object within a component?
 <!-- enter you answer in the space below -->
 ```
-
+appstate is global component objects are isolated
 ```
 **9.** What is the responsibility of `Services` in our Vue projects?
 <!-- enter you answer in the space below -->
 ```
-
+to provide function logic for vue components
 ```
 **10.** Which file contains the root element of your Vue project?
 <!-- enter you answer in the space below -->
@@ -53,5 +53,5 @@ style, scoped
 **12.** What is the Vue method used to create watchable objects such as `state` or `AppState`?
 <!-- enter you answer in the space below -->
 ```
-
+watchEffect
 ```
