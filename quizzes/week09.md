@@ -38,15 +38,16 @@ definition of done
 **8.** Give two examples of a user story:
 <!-- enter you answer in the space below -->
 ```
-
+as a student I want to graduate codeworks to become a developer so I can make a decent living
+as a developer I want to become a freelancer to start my own software company
 ```
 **9.** During which ceremony is your Sprint Backlog created?
 <!-- enter you answer in the space below -->
 ```
-
+sprint planning
 ```
 **10.** In which of these ceremonies are Tasks assigned to you?
 <!-- enter you answer in the space below -->
 ```
-
+planning meetings
 ```
