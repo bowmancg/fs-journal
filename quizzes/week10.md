@@ -4,7 +4,7 @@
 **1.** What is the purpose of a `namespace`?
 <!-- enter you answer in the space below -->
 ```
-
+they are used to organize classes
 ```
 **2.** What is the difference between a `class` and a `struct`?
 <!-- enter you answer in the space below -->
